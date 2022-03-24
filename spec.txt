@@ -1,0 +1,1 @@
+select[c] == 1 ; out_flit <= in_flit[c] " out_last <= in_last[c]
